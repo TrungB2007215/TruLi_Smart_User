@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "875826680253",
+    "project_id": "truli-smart",
+    "storage_bucket": "truli-smart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875826680253:android:39bb5523319aeb95c302d4",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBcFpbGgrX9siVk1XWqdYLJn_kl7aoQoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875826680253:android:8ee5fd6768fcd4eac302d4",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBcFpbGgrX9siVk1XWqdYLJn_kl7aoQoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
